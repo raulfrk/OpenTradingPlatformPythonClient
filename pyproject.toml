@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "otpclient"
+version = "0.1.0"
+description = ""
+authors = ["Raul Farkas <raulfrk.wk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+protobuf = "^4.25.2"
+nats-py = "^2.6.0"
+marshmallow = "^3.20.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
