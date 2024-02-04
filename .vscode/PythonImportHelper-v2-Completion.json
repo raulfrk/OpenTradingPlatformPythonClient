@@ -1,0 +1,2494 @@
+[
+  {
+    "label": "fields",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "Schema",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "post_load",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "Schema",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "fields",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "post_load",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "fields",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "Schema",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "post_load",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "fields",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "Schema",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "post_load",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "Schema",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "fields",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "post_load",
+    "importPath": "marshmallow",
+    "description": "marshmallow",
+    "isExtraImport": true,
+    "detail": "marshmallow",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONOperationEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "TimeFrameEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONOperationEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONOperationEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "LLMProviderEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisProcessEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONOperationEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "OPStatusEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "OPStatusEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "TimeFrameEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "\\",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "OPStatusEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "ComponentEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "FunctionalityEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "TimeFrameEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "TimeFrameEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "\\",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestOPEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisProcessEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "LLMProviderEnum",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "\\",
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "isExtraImport": true,
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommand",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommand",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "CancelRemote",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommand",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "CancelRemote",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommand",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommandSchema",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "add_json_preamble",
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "uuid",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "uuid",
+    "description": "uuid",
+    "detail": "uuid",
+    "documentation": {}
+  },
+  {
+    "label": "UUID",
+    "importPath": "uuid",
+    "description": "uuid",
+    "isExtraImport": true,
+    "detail": "uuid",
+    "documentation": {}
+  },
+  {
+    "label": "Bar",
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "DailyBars",
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "UpdatedBars",
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "Bar",
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "LULD",
+    "importPath": "otpclient.proto.luld",
+    "description": "otpclient.proto.luld",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.luld",
+    "documentation": {}
+  },
+  {
+    "label": "News",
+    "importPath": "otpclient.proto.news",
+    "description": "otpclient.proto.news",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.news",
+    "documentation": {}
+  },
+  {
+    "label": "Orderbook",
+    "importPath": "otpclient.proto.orderbook",
+    "description": "otpclient.proto.orderbook",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.orderbook",
+    "documentation": {}
+  },
+  {
+    "label": "ProtoLoadable",
+    "importPath": "otpclient.proto.proto_loadable",
+    "description": "otpclient.proto.proto_loadable",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.proto_loadable",
+    "documentation": {}
+  },
+  {
+    "label": "ProtoLoadable",
+    "importPath": "otpclient.proto.proto_loadable",
+    "description": "otpclient.proto.proto_loadable",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.proto_loadable",
+    "documentation": {}
+  },
+  {
+    "label": "Quote",
+    "importPath": "otpclient.proto.quote",
+    "description": "otpclient.proto.quote",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.quote",
+    "documentation": {}
+  },
+  {
+    "label": "Trade",
+    "importPath": "otpclient.proto.trade",
+    "description": "otpclient.proto.trade",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.trade",
+    "documentation": {}
+  },
+  {
+    "label": "TradingStatus",
+    "importPath": "otpclient.proto.tradingstatus",
+    "description": "otpclient.proto.tradingstatus",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.tradingstatus",
+    "documentation": {}
+  },
+  {
+    "label": "asyncio",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "asyncio",
+    "description": "asyncio",
+    "detail": "asyncio",
+    "documentation": {}
+  },
+  {
+    "label": "json",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "json",
+    "description": "json",
+    "detail": "json",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "TypeVar",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Union",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Awaitable",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Callable",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "TypeVar",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "List",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Callable",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Protocol",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Any",
+    "importPath": "typing",
+    "description": "typing",
+    "isExtraImport": true,
+    "detail": "typing",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Subscription",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Client",
+    "importPath": "nats.aio.client",
+    "description": "nats.aio.client",
+    "isExtraImport": true,
+    "detail": "nats.aio.client",
+    "documentation": {}
+  },
+  {
+    "label": "Msg",
+    "importPath": "nats.aio.msg",
+    "description": "nats.aio.msg",
+    "isExtraImport": true,
+    "detail": "nats.aio.msg",
+    "documentation": {}
+  },
+  {
+    "label": "StreamResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "StreamResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "Response",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "OPStatusEnum",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponse",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "Response",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "Response",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "ResponseSchema",
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "isExtraImport": true,
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "loadable_map",
+    "importPath": "otpclient.client.stream_handler.entity_mapping",
+    "description": "otpclient.client.stream_handler.entity_mapping",
+    "isExtraImport": true,
+    "detail": "otpclient.client.stream_handler.entity_mapping",
+    "documentation": {}
+  },
+  {
+    "label": "loadable_map",
+    "importPath": "otpclient.client.stream_handler.entity_mapping",
+    "description": "otpclient.client.stream_handler.entity_mapping",
+    "isExtraImport": true,
+    "detail": "otpclient.client.stream_handler.entity_mapping",
+    "documentation": {}
+  },
+  {
+    "label": "log",
+    "importPath": "otpclient.logging.logger",
+    "description": "otpclient.logging.logger",
+    "isExtraImport": true,
+    "detail": "otpclient.logging.logger",
+    "documentation": {}
+  },
+  {
+    "label": "log",
+    "importPath": "otpclient.logging.logger",
+    "description": "otpclient.logging.logger",
+    "isExtraImport": true,
+    "detail": "otpclient.logging.logger",
+    "documentation": {}
+  },
+  {
+    "label": "log",
+    "importPath": "otpclient.logging.logger",
+    "description": "otpclient.logging.logger",
+    "isExtraImport": true,
+    "detail": "otpclient.logging.logger",
+    "documentation": {}
+  },
+  {
+    "label": "log",
+    "importPath": "otpclient.logging.logger",
+    "description": "otpclient.logging.logger",
+    "isExtraImport": true,
+    "detail": "otpclient.logging.logger",
+    "documentation": {}
+  },
+  {
+    "label": "otpclient.proto.transmission_message",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "otpclient.proto.transmission_message",
+    "description": "otpclient.proto.transmission_message",
+    "detail": "otpclient.proto.transmission_message",
+    "documentation": {}
+  },
+  {
+    "label": "TransmissionMessage",
+    "importPath": "otpclient.proto.transmission_message",
+    "description": "otpclient.proto.transmission_message",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.transmission_message",
+    "documentation": {}
+  },
+  {
+    "label": "TransmissionMessage",
+    "importPath": "otpclient.proto.transmission_message",
+    "description": "otpclient.proto.transmission_message",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.transmission_message",
+    "documentation": {}
+  },
+  {
+    "label": "ABC",
+    "importPath": "abc",
+    "description": "abc",
+    "isExtraImport": true,
+    "detail": "abc",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "importPath": "datetime",
+    "description": "datetime",
+    "isExtraImport": true,
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "importPath": "datetime",
+    "description": "datetime",
+    "isExtraImport": true,
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "importPath": "datetime",
+    "description": "datetime",
+    "isExtraImport": true,
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "datetime",
+    "importPath": "datetime",
+    "description": "datetime",
+    "isExtraImport": true,
+    "detail": "datetime",
+    "documentation": {}
+  },
+  {
+    "label": "nats",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "nats",
+    "description": "nats",
+    "detail": "nats",
+    "documentation": {}
+  },
+  {
+    "label": "NATS_SERVER_URL",
+    "importPath": "otpclient.client.defaults",
+    "description": "otpclient.client.defaults",
+    "isExtraImport": true,
+    "detail": "otpclient.client.defaults",
+    "documentation": {}
+  },
+  {
+    "label": "ServerError",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "ServerError",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "ServerError",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "ServerError",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "CancelledError",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "NATSException",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "parse_error",
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "isExtraImport": true,
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequest",
+    "importPath": "otpclient.client.request.data_request",
+    "description": "otpclient.client.request.data_request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.data_request",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequest",
+    "importPath": "otpclient.client.request.data_request",
+    "description": "otpclient.client.request.data_request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.data_request",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequest",
+    "importPath": "otpclient.client.request.data_request",
+    "description": "otpclient.client.request.data_request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.data_request",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequest",
+    "importPath": "otpclient.client.request.stream_request",
+    "description": "otpclient.client.request.stream_request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.stream_request",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionCollection",
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "isExtraImport": true,
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionPotential",
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "isExtraImport": true,
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionUpdate",
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "isExtraImport": true,
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "Enum",
+    "importPath": "enum",
+    "description": "enum",
+    "isExtraImport": true,
+    "detail": "enum",
+    "documentation": {}
+  },
+  {
+    "label": "wraps",
+    "importPath": "functools",
+    "description": "functools",
+    "isExtraImport": true,
+    "detail": "functools",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisRequest",
+    "importPath": "otpclient.client.request.sentimentanalysis_request",
+    "description": "otpclient.client.request.sentimentanalysis_request",
+    "isExtraImport": true,
+    "detail": "otpclient.client.request.sentimentanalysis_request",
+    "documentation": {}
+  },
+  {
+    "label": "DataproviderClient",
+    "importPath": "otpclient.client.dataprovider_client",
+    "description": "otpclient.client.dataprovider_client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.dataprovider_client",
+    "documentation": {}
+  },
+  {
+    "label": "DatastorageClient",
+    "importPath": "otpclient.client.datastorage_client",
+    "description": "otpclient.client.datastorage_client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.datastorage_client",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalyzerClient",
+    "importPath": "otpclient.client.sentimentanalyzer_client",
+    "description": "otpclient.client.sentimentanalyzer_client",
+    "isExtraImport": true,
+    "detail": "otpclient.client.sentimentanalyzer_client",
+    "documentation": {}
+  },
+  {
+    "label": "structlog",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "structlog",
+    "description": "structlog",
+    "detail": "structlog",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "descriptor_pool",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "symbol_database",
+    "importPath": "google.protobuf",
+    "description": "google.protobuf",
+    "isExtraImport": true,
+    "detail": "google.protobuf",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "builder",
+    "importPath": "google.protobuf.internal",
+    "description": "google.protobuf.internal",
+    "isExtraImport": true,
+    "detail": "google.protobuf.internal",
+    "documentation": {}
+  },
+  {
+    "label": "Bar",
+    "importPath": "otpclient.proto.bar_pb2",
+    "description": "otpclient.proto.bar_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.bar_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "LULD",
+    "importPath": "otpclient.proto.LULD_pb2",
+    "description": "otpclient.proto.LULD_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.LULD_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "News",
+    "importPath": "otpclient.proto.news_pb2",
+    "description": "otpclient.proto.news_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.news_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "NewsSentiment",
+    "importPath": "otpclient.proto.news_pb2",
+    "description": "otpclient.proto.news_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.news_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "Orderbook",
+    "importPath": "otpclient.proto.orderbook_pb2",
+    "description": "otpclient.proto.orderbook_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.orderbook_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "OrderbookEntry",
+    "importPath": "otpclient.proto.orderbook_pb2",
+    "description": "otpclient.proto.orderbook_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.orderbook_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "Quote",
+    "importPath": "otpclient.proto.quote_pb2",
+    "description": "otpclient.proto.quote_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.quote_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "Trade",
+    "importPath": "otpclient.proto.trade_pb2",
+    "description": "otpclient.proto.trade_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.trade_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "TradingStatus",
+    "importPath": "otpclient.proto.tradingstatus_pb2",
+    "description": "otpclient.proto.tradingstatus_pb2",
+    "isExtraImport": true,
+    "detail": "otpclient.proto.tradingstatus_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "otpclient.proto.transmission_message_pb2",
+    "kind": 6,
+    "isExtraImport": true,
+    "importPath": "otpclient.proto.transmission_message_pb2",
+    "description": "otpclient.proto.transmission_message_pb2",
+    "detail": "otpclient.proto.transmission_message_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.request.data_request",
+    "description": "otpclient.client.request.data_request",
+    "peekOfCode": "class DataRequestSchema(Schema):\n    fingerprint = fields.Str()\n    source = fields.Enum(SourceEnum, by_value=True)\n    assetClass = fields.Enum(AssetClassEnum, by_value=True)\n    symbol = fields.Str()\n    operation = fields.Enum(DataRequestOPEnum, by_value=True)\n    dataType = fields.Enum(DatatypeEnum, by_value=True)\n    account = fields.Enum(AccountEnum, by_value=True)\n    startTime = fields.Int()\n    endTime = fields.Int()",
+    "detail": "otpclient.client.request.data_request",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequest",
+    "kind": 6,
+    "importPath": "otpclient.client.request.data_request",
+    "description": "otpclient.client.request.data_request",
+    "peekOfCode": "class DataRequest:\n    def __init__(\n            self,\n            fingerprint: str,\n            source: SourceEnum,\n            assetClass: AssetClassEnum,\n            symbol: str,\n            operation: DataRequestOPEnum,\n            dataType: DatatypeEnum,\n            account: AccountEnum,",
+    "detail": "otpclient.client.request.data_request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommandSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "class JSONCommandSchema(Schema):\n    operation = fields.Enum(JSONOperationEnum, by_value=True)\n    request = fields.Str()\n    cancelKey = fields.Str()\n    @post_load()\n    def make_object(self, data, **kwargs):\n        return JSONCommand(**data)\nclass JSONCommand:\n    def __init__(self, operation: JSONOperationEnum, request: str, cancelKey):\n        self.operation: JSONOperationEnum = operation",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "JSONCommand",
+    "kind": 6,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "class JSONCommand:\n    def __init__(self, operation: JSONOperationEnum, request: str, cancelKey):\n        self.operation: JSONOperationEnum = operation\n        self.cancelKey = cancelKey\n        self.request: str | None = request\n    def dump(self, no_preamble: bool = False) -> str:\n        dump = JSONCommandSchema().dumps(self).replace(\"\\\"{\", \"{\").replace(\"}\\\"\", \"}\").replace(\"\\\\\", \"\")\n        if no_preamble:\n            return dump\n        return add_json_preamble(dump)",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "CancelRemote",
+    "kind": 6,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "class CancelRemote:\n    def __init__(self, cancel_key: str):\n        self.cancel_key = cancel_key\n    def dump(self, no_preamble: bool = False) -> str:\n        return JSONCommand(JSONOperationEnum.CANCEL, \"\", self.cancel_key).dump(no_preamble)\n    @classmethod\n    def load(cls, json: str) -> \"CancelRemote\":\n        if has_json_preamble(json):\n            json = remove_json_preamble(json)\n        command = JSONCommandSchema().loads(json)",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "add_json_preamble",
+    "kind": 2,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "def add_json_preamble(json: str) -> str:\n    return f\"json{json}\"\ndef has_json_preamble(json: str) -> bool:\n    return json.startswith(\"json\")\ndef remove_json_preamble(json: str) -> str:\n    return json[4:]",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "has_json_preamble",
+    "kind": 2,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "def has_json_preamble(json: str) -> bool:\n    return json.startswith(\"json\")\ndef remove_json_preamble(json: str) -> str:\n    return json[4:]",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "remove_json_preamble",
+    "kind": 2,
+    "importPath": "otpclient.client.request.request",
+    "description": "otpclient.client.request.request",
+    "peekOfCode": "def remove_json_preamble(json: str) -> str:\n    return json[4:]",
+    "detail": "otpclient.client.request.request",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisRequestSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.request.sentimentanalysis_request",
+    "description": "otpclient.client.request.sentimentanalysis_request",
+    "peekOfCode": "class SentimentAnalysisRequestSchema(Schema):\n    Source = fields.Enum(SourceEnum, by_value=True)\n    Symbol = fields.Str()\n    Operation = fields.Enum(DataRequestOPEnum, by_value=True)\n    StartTime = fields.Int()\n    EndTime = fields.Int()\n    NoConfirm = fields.Bool()\n    SentimentAnalysisProcess = fields.Enum(SentimentAnalysisProcessEnum, by_value=True)\n    Model = fields.Str()\n    ModelProvider = fields.Enum(LLMProviderEnum, by_value=True)",
+    "detail": "otpclient.client.request.sentimentanalysis_request",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisRequest",
+    "kind": 6,
+    "importPath": "otpclient.client.request.sentimentanalysis_request",
+    "description": "otpclient.client.request.sentimentanalysis_request",
+    "peekOfCode": "class SentimentAnalysisRequest:\n    def __init__(\n            self,\n            Source: SourceEnum,\n            Symbol: str,\n            Operation: DataRequestOPEnum,\n            StartTime: int,\n            EndTime: int,\n            NoConfirm: bool,\n            SentimentAnalysisProcess: SentimentAnalysisProcessEnum,",
+    "detail": "otpclient.client.request.sentimentanalysis_request",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequestSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.request.stream_request",
+    "description": "otpclient.client.request.stream_request",
+    "peekOfCode": "class StreamRequestSchema(Schema):\n    source = fields.Enum(SourceEnum, by_value=True)\n    assetClass = fields.Enum(AssetClassEnum, by_value=True)\n    symbols = fields.List(fields.Str())\n    operation = fields.Enum(StreamRequestOPEnum, by_value=True)\n    dataTypes = fields.List(fields.Enum(DatatypeEnum, by_value=True))\n    account = fields.Enum(AccountEnum, by_value=True)\n    @post_load()\n    def make_object(self, data, **kwargs):\n        return StreamRequest(**data)",
+    "detail": "otpclient.client.request.stream_request",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequest",
+    "kind": 6,
+    "importPath": "otpclient.client.request.stream_request",
+    "description": "otpclient.client.request.stream_request",
+    "peekOfCode": "class StreamRequest:\n    def __init__(\n            self,\n            source: SourceEnum,\n            assetClass: AssetClassEnum,\n            symbols: list[str],\n            operation: StreamRequestOPEnum,\n            dataTypes: list[DatatypeEnum],\n            account: AccountEnum,\n    ):",
+    "detail": "otpclient.client.request.stream_request",
+    "documentation": {}
+  },
+  {
+    "label": "ResponseSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class ResponseSchema(Schema):\n    Err = fields.Str()\n    Message = fields.Str()\n    Status = fields.Enum(OPStatusEnum, by_value=True)\n    @post_load()\n    def make_object(self, data, **kwargs):\n        return Response(**data)\nclass Response():\n    def __init__(self, Err, Message, Status):\n        self.Err: str = Err",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "Response",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class Response():\n    def __init__(self, Err, Message, Status):\n        self.Err: str = Err\n        self.Message: str = Message\n        self.Status: OPStatusEnum = Status\n    def dump(self) -> str:\n        return ResponseSchema().dumps(self)\n    @classmethod\n    def load(cls, json: str) -> \"Response\":\n        return ResponseSchema().loads(json)",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponseSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class DataResponseSchema(ResponseSchema):\n    Err = fields.Str()\n    Message = fields.Str()\n    Status = fields.Enum(OPStatusEnum, by_value=True)\n    ResponseTopic = fields.Str()\n    @post_load()\n    def make_object(self, data, **kwargs):\n        return DataResponse(**data)\nclass DataResponse(Response):\n    def __init__(self, Err, Message, Status, ResponseTopic=\"\"):",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "DataResponse",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class DataResponse(Response):\n    def __init__(self, Err, Message, Status, ResponseTopic=\"\"):\n        super().__init__(Err, Message, Status)\n        self.ResponseTopic: str = ResponseTopic\n    def dump(self) -> str:\n        return DataResponseSchema().dumps(self)\n    @classmethod\n    def load(cls, json: str) -> \"DataResponse\":\n        return DataResponseSchema().loads(json)\nclass StreamResponseSchema(ResponseSchema):",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "StreamResponseSchema",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class StreamResponseSchema(ResponseSchema):\n    Err = fields.Str()\n    Message = fields.Str()\n    Status = fields.Enum(OPStatusEnum, by_value=True)\n    Streams = fields.Str()\n    Topics = fields.Str()\n    @post_load()\n    def make_object(self, data, **kwargs):\n        return StreamResponse(**data)\nclass StreamResponse(Response):",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "StreamResponse",
+    "kind": 6,
+    "importPath": "otpclient.client.response.response",
+    "description": "otpclient.client.response.response",
+    "peekOfCode": "class StreamResponse(Response):\n    def __init__(self, Err, Message, Status, Streams=\"\", Topics=\"\"):\n        super().__init__(Err, Message, Status)\n        self.Streams: str = Streams\n        self.Topics: str = Topics\n    def dump(self) -> str:\n        return StreamResponseSchema().dumps(self)\n    @classmethod\n    def load(cls, json: str) -> \"StreamResponse\":\n        return StreamResponseSchema().loads(json)",
+    "detail": "otpclient.client.response.response",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionUpdate",
+    "kind": 6,
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "peekOfCode": "class SubscriptionUpdate:\n    def __init__(\n            self,\n            topics: dict[DatatypeEnum, list[str]],\n            operation: StreamRequestOPEnum,\n            server_bound: bool = False,\n    ) -> None:\n        \"\"\"SubscriptionUpdate used to update the potential subscription collection by either adding or removing\n        topics.\"\"\"\n        self.topics = topics",
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionPotential",
+    "kind": 6,
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "peekOfCode": "class SubscriptionPotential:\n    \"\"\"SubscriptionPotential is used to represent a potential subscription to a topic. It is used to manage the\n    subscription to a topic and can be used to subscribe to the topic with a callback or a queue.\"\"\"\n    logger = log\n    def __init__(self, nats_client: Client, topic: str, data_type: str) -> None:\n        self._nc = nats_client\n        self.topic = topic\n        self.data_type = data_type\n        self._loadable: ProtoLoadable | None = loadable_map.get(\n            DatatypeEnum(data_type), None",
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "SubscriptionCollection",
+    "kind": 6,
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "peekOfCode": "class SubscriptionCollection:\n    \"\"\"SubscriptionCollection is used to manage a collection of SubscriptionPotentials.\"\"\"\n    logger = log\n    def __init__(\n            self,\n            nats_client: Client,\n            sub_potentials: list[SubscriptionPotential] | None = None,\n    ):\n        self._sub_potentials: list[SubscriptionPotential] = []\n        self._sub_potentials_lock = asyncio.Lock()",
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "EntityTypeVar",
+    "kind": 5,
+    "importPath": "otpclient.client.stream_handler.subscription_potential",
+    "description": "otpclient.client.stream_handler.subscription_potential",
+    "peekOfCode": "EntityTypeVar = TypeVar(\"EntityTypeVar\")\nclass SubscriptionCollection:\n    \"\"\"SubscriptionCollection is used to manage a collection of SubscriptionPotentials.\"\"\"\n    logger = log\n    def __init__(\n            self,\n            nats_client: Client,\n            sub_potentials: list[SubscriptionPotential] | None = None,\n    ):\n        self._sub_potentials: list[SubscriptionPotential] = []",
+    "detail": "otpclient.client.stream_handler.subscription_potential",
+    "documentation": {}
+  },
+  {
+    "label": "OtpClient",
+    "kind": 6,
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "peekOfCode": "class OtpClient(ABC):\n    \"\"\"Abstract base class for OTP clients\"\"\"\n    logger = log\n    def __init__(self, nats_client: Client):\n        self.nc = nats_client\n        self.command_topic: str = \"\"\n    async def data_get(\n            self,\n            source: SourceEnum,\n            asset_class: AssetClassEnum,",
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "extract_queue_count",
+    "kind": 2,
+    "importPath": "otpclient.client.client",
+    "description": "otpclient.client.client",
+    "peekOfCode": "def extract_queue_count(topic: str) -> int:\n    \"\"\"Extract the queue count from the topic.\"\"\"\n    return int(topic.split(\".\")[-1])\nclass OtpClient(ABC):\n    \"\"\"Abstract base class for OTP clients\"\"\"\n    logger = log\n    def __init__(self, nats_client: Client):\n        self.nc = nats_client\n        self.command_topic: str = \"\"\n    async def data_get(",
+    "detail": "otpclient.client.client",
+    "documentation": {}
+  },
+  {
+    "label": "DataproviderClient",
+    "kind": 6,
+    "importPath": "otpclient.client.dataprovider_client",
+    "description": "otpclient.client.dataprovider_client",
+    "peekOfCode": "class DataproviderClient(OtpClient):\n    \"\"\"Client for interacting with the Dataprovider component of the OTP system.\n    This client is used to request data and subscribe to data streams.\"\"\"\n    def __init__(self, nats_client: Client):\n        super().__init__(nats_client)\n        self.command_topic = (\n            f\"{ComponentEnum.DATAPROVIDER.value}.{FunctionalityEnum.COMMAND.value}\"\n        )\n        self.logger = self.logger.bind(\n            command_topic=self.command_topic,",
+    "detail": "otpclient.client.dataprovider_client",
+    "documentation": {}
+  },
+  {
+    "label": "DatastorageClient",
+    "kind": 6,
+    "importPath": "otpclient.client.datastorage_client",
+    "description": "otpclient.client.datastorage_client",
+    "peekOfCode": "class DatastorageClient(OtpClient):\n    \"\"\"Client for interacting with the Datastorage component of the OTP system.\n    This client is used to request data.\"\"\"\n    logger = log\n    def __init__(self, nats_client: Client):\n        super().__init__(nats_client)\n        self.command_topic = (\n            f\"{ComponentEnum.DATASTORAGE.value}.{FunctionalityEnum.COMMAND.value}\"\n        )",
+    "detail": "otpclient.client.datastorage_client",
+    "documentation": {}
+  },
+  {
+    "label": "NATS_SERVER_URL",
+    "kind": 5,
+    "importPath": "otpclient.client.defaults",
+    "description": "otpclient.client.defaults",
+    "peekOfCode": "NATS_SERVER_URL = \"nats://localhost:4222\"",
+    "detail": "otpclient.client.defaults",
+    "documentation": {}
+  },
+  {
+    "label": "TimeFrameEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class TimeFrameEnum(Enum):\n    ONE_MINUTE = \"1min\"\n    ONE_HOUR = \"1hour\"\n    ONE_DAY = \"1day\"\n    ONE_WEEK = \"1week\"\n    ONE_MONTH = \"1month\"\n    NO_TIMEFRAME = \"none\"\nclass ComponentEnum(Enum):\n    DATAPROVIDER = \"dataprovider\"\n    DATASTORAGE = \"datastorage\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "ComponentEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class ComponentEnum(Enum):\n    DATAPROVIDER = \"dataprovider\"\n    DATASTORAGE = \"datastorage\"\n    SENTIMENT_ANALYZER = \"sentiment-analyzer\"\nclass JSONOperationEnum(Enum):\n    STREAM = \"stream\"\n    DATA = \"data\"\n    STREAM_SUBSCRIBE = \"stream-subscribe\"\n    CANCEL = \"cancel\"\nclass FunctionalityEnum(Enum):",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "JSONOperationEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class JSONOperationEnum(Enum):\n    STREAM = \"stream\"\n    DATA = \"data\"\n    STREAM_SUBSCRIBE = \"stream-subscribe\"\n    CANCEL = \"cancel\"\nclass FunctionalityEnum(Enum):\n    COMMAND = \"command\"\nclass SourceEnum(Enum):\n    ALPACA = \"alpaca\"\n    INTERNAL = \"internal\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "FunctionalityEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class FunctionalityEnum(Enum):\n    COMMAND = \"command\"\nclass SourceEnum(Enum):\n    ALPACA = \"alpaca\"\n    INTERNAL = \"internal\"\nclass AssetClassEnum(Enum):\n    STOCK = \"stock\"\n    CRYPTO = \"crypto\"\n    NEWS = \"news\"\nclass DatatypeEnum(Enum):",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SourceEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class SourceEnum(Enum):\n    ALPACA = \"alpaca\"\n    INTERNAL = \"internal\"\nclass AssetClassEnum(Enum):\n    STOCK = \"stock\"\n    CRYPTO = \"crypto\"\n    NEWS = \"news\"\nclass DatatypeEnum(Enum):\n    LOG = \"log\"\n    BAR = \"bar\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AssetClassEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class AssetClassEnum(Enum):\n    STOCK = \"stock\"\n    CRYPTO = \"crypto\"\n    NEWS = \"news\"\nclass DatatypeEnum(Enum):\n    LOG = \"log\"\n    BAR = \"bar\"\n    LULD = \"luld\"\n    STATUS = \"status\"\n    ORDERBOOK = \"orderbook\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DatatypeEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class DatatypeEnum(Enum):\n    LOG = \"log\"\n    BAR = \"bar\"\n    LULD = \"luld\"\n    STATUS = \"status\"\n    ORDERBOOK = \"orderbook\"\n    DAILY_BARS = \"daily-bars\"\n    QUOTES = \"quotes\"\n    TRADES = \"trades\"\n    UPDATED_BARS = \"updated-bars\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "OPStatusEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class OPStatusEnum(Enum):\n    SUCCESS = \"success\"\n    FAILURE = \"failure\"\nclass LLMProviderEnum(Enum):\n    OLLAMA = \"ollama\"\nclass SentimentAnalysisProcessEnum(Enum):\n    PLAIN = \"plain\"\n    SEMANTIC = \"semantic\"\nclass DataRequestOPEnum(Enum):\n    GET = \"get\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "LLMProviderEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class LLMProviderEnum(Enum):\n    OLLAMA = \"ollama\"\nclass SentimentAnalysisProcessEnum(Enum):\n    PLAIN = \"plain\"\n    SEMANTIC = \"semantic\"\nclass DataRequestOPEnum(Enum):\n    GET = \"get\"\nclass StreamRequestOPEnum(Enum):\n    ADD = \"add\"\n    REMOVE = \"remove\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalysisProcessEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class SentimentAnalysisProcessEnum(Enum):\n    PLAIN = \"plain\"\n    SEMANTIC = \"semantic\"\nclass DataRequestOPEnum(Enum):\n    GET = \"get\"\nclass StreamRequestOPEnum(Enum):\n    ADD = \"add\"\n    REMOVE = \"remove\"\n    GET = \"get\"\nclass AccountEnum(Enum):",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "DataRequestOPEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class DataRequestOPEnum(Enum):\n    GET = \"get\"\nclass StreamRequestOPEnum(Enum):\n    ADD = \"add\"\n    REMOVE = \"remove\"\n    GET = \"get\"\nclass AccountEnum(Enum):\n    DEFAULT = \"default\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "StreamRequestOPEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class StreamRequestOPEnum(Enum):\n    ADD = \"add\"\n    REMOVE = \"remove\"\n    GET = \"get\"\nclass AccountEnum(Enum):\n    DEFAULT = \"default\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "AccountEnum",
+    "kind": 6,
+    "importPath": "otpclient.client.enums",
+    "description": "otpclient.client.enums",
+    "peekOfCode": "class AccountEnum(Enum):\n    DEFAULT = \"default\"",
+    "detail": "otpclient.client.enums",
+    "documentation": {}
+  },
+  {
+    "label": "NATSException",
+    "kind": 6,
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "peekOfCode": "class NATSException(Exception):\n    \"\"\"Exceptions related to NATS connection.\"\"\"\n    pass\nclass ServerError(Exception):\n    \"\"\"Exceptions related to OTP server errors.\"\"\"\n    pass\nclass CancelledError(ServerError):\n    \"\"\"Exceptions related to cancelled operations.\"\"\"\n    pass\ndef parse_error(func: Callable[..., Any]) -> Callable[..., Any]:",
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "ServerError",
+    "kind": 6,
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "peekOfCode": "class ServerError(Exception):\n    \"\"\"Exceptions related to OTP server errors.\"\"\"\n    pass\nclass CancelledError(ServerError):\n    \"\"\"Exceptions related to cancelled operations.\"\"\"\n    pass\ndef parse_error(func: Callable[..., Any]) -> Callable[..., Any]:\n    @wraps(func)\n    async def wrapper(self: Any, *args: Any, **kwargs: Any) -> Response:\n        response: Response = await func(self, *args, **kwargs)",
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "CancelledError",
+    "kind": 6,
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "peekOfCode": "class CancelledError(ServerError):\n    \"\"\"Exceptions related to cancelled operations.\"\"\"\n    pass\ndef parse_error(func: Callable[..., Any]) -> Callable[..., Any]:\n    @wraps(func)\n    async def wrapper(self: Any, *args: Any, **kwargs: Any) -> Response:\n        response: Response = await func(self, *args, **kwargs)\n        if response.Status == OPStatusEnum.FAILURE and kwargs.get(\"fail_on_error\", True):\n            raise ServerError(response.Err)\n        return response",
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "parse_error",
+    "kind": 2,
+    "importPath": "otpclient.client.exception",
+    "description": "otpclient.client.exception",
+    "peekOfCode": "def parse_error(func: Callable[..., Any]) -> Callable[..., Any]:\n    @wraps(func)\n    async def wrapper(self: Any, *args: Any, **kwargs: Any) -> Response:\n        response: Response = await func(self, *args, **kwargs)\n        if response.Status == OPStatusEnum.FAILURE and kwargs.get(\"fail_on_error\", True):\n            raise ServerError(response.Err)\n        return response\n    return wrapper",
+    "detail": "otpclient.client.exception",
+    "documentation": {}
+  },
+  {
+    "label": "SentimentAnalyzerClient",
+    "kind": 6,
+    "importPath": "otpclient.client.sentimentanalyzer_client",
+    "description": "otpclient.client.sentimentanalyzer_client",
+    "peekOfCode": "class SentimentAnalyzerClient(OtpClient):\n    \"\"\"Client for interacting with the SentimentAnalyzer component of the OTP system.\n        This client is used to request data and subscribe to data streams.\"\"\"\n    def __init__(self, nats_client: Client):\n        super().__init__(nats_client)\n        self.command_topic = (\n            f\"{ComponentEnum.SENTIMENT_ANALYZER.value}.{FunctionalityEnum.COMMAND.value}\"\n        )\n        self.logger = self.logger.bind(\n            command_topic=self.command_topic,",
+    "detail": "otpclient.client.sentimentanalyzer_client",
+    "documentation": {}
+  },
+  {
+    "label": "SystemClient",
+    "kind": 6,
+    "importPath": "otpclient.client.system_client",
+    "description": "otpclient.client.system_client",
+    "peekOfCode": "class SystemClient(OtpClient):\n    def __init__(self, nats_client: Client):\n        super().__init__(nats_client)\n    @parse_error\n    async def quit(self, component: str, fail_on_error: bool = True) -> Response:\n        request = JSONCommandSchema().dumps(JSONCommand(\"quit\", \"\", \"\"))\n        request = add_json_preamble(request).encode()\n        try:\n            response = await self.nc.request(f\"{component}.command\", request)\n        except Exception as e:",
+    "detail": "otpclient.client.system_client",
+    "documentation": {}
+  },
+  {
+    "label": "UserClient",
+    "kind": 6,
+    "importPath": "otpclient.client.user_client",
+    "description": "otpclient.client.user_client",
+    "peekOfCode": "class UserClient(OtpClient):\n    \"\"\"Wrapper client for all user-facing clients.\"\"\"\n    def __init__(self, nats_client: Client):\n        super().__init__(nats_client)\n        self.dataprovider = DataproviderClient(nats_client)\n        self.datastorage = DatastorageClient(nats_client)\n        self.sentimentanalyzer = SentimentAnalyzerClient(nats_client)",
+    "detail": "otpclient.client.user_client",
+    "documentation": {}
+  },
+  {
+    "label": "log",
+    "kind": 5,
+    "importPath": "otpclient.logging.logger",
+    "description": "otpclient.logging.logger",
+    "peekOfCode": "log = structlog.get_logger()",
+    "detail": "otpclient.logging.logger",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.LULD_pb2",
+    "description": "otpclient.proto.LULD_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x10proto/LULD.proto\\x12\\x08\\x65ntities\\\"\\xb1\\x01\\n\\x04LULD\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x14\\n\\x0cLimitUpPrice\\x18\\x02 \\x01(\\x01\\x12\\x16\\n\\x0eLimitDownPrice\\x18\\x03 \\x01(\\x01\\x12\\x11\\n\\tIndicator\\x18\\x04 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x05 \\x01(\\x03\\x12\\x0c\\n\\x04Tape\\x18\\x06 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x07 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x08 \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\t \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.LULD_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_LULD']._serialized_start=31\n  _globals['_LULD']._serialized_end=208",
+    "detail": "otpclient.proto.LULD_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.LULD_pb2",
+    "description": "otpclient.proto.LULD_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x10proto/LULD.proto\\x12\\x08\\x65ntities\\\"\\xb1\\x01\\n\\x04LULD\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x14\\n\\x0cLimitUpPrice\\x18\\x02 \\x01(\\x01\\x12\\x16\\n\\x0eLimitDownPrice\\x18\\x03 \\x01(\\x01\\x12\\x11\\n\\tIndicator\\x18\\x04 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x05 \\x01(\\x03\\x12\\x0c\\n\\x04Tape\\x18\\x06 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x07 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x08 \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\t \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.LULD_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_LULD']._serialized_start=31\n  _globals['_LULD']._serialized_end=208\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.LULD_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.LULD_pb2",
+    "description": "otpclient.proto.LULD_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.LULD_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_LULD']._serialized_start=31\n  _globals['_LULD']._serialized_end=208\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.LULD_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "Bar",
+    "kind": 6,
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "peekOfCode": "class Bar():\n    def __init__(self, proto_bar: BarProto) -> None:\n        self.symbol: str = proto_bar.Symbol\n        self.exchange: str = proto_bar.Exchange\n        self.open_: float = proto_bar.Open\n        self.high: float = proto_bar.High\n        self.low: float = proto_bar.Low\n        self.close: float = proto_bar.Close\n        self.volume: float = proto_bar.Volume\n        self.vwap: float = proto_bar.VWAP",
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "DailyBars",
+    "kind": 6,
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "peekOfCode": "class DailyBars(Bar):\n    @classmethod\n    def load(cls, proto: bytes) -> Any:\n        entity = BarProto()\n        entity.ParseFromString(proto)\n        return DailyBars(entity)\nclass UpdatedBars(Bar):\n    @classmethod\n    def load(cls, proto: bytes) -> Any:\n        entity = BarProto()",
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "UpdatedBars",
+    "kind": 6,
+    "importPath": "otpclient.proto.bar",
+    "description": "otpclient.proto.bar",
+    "peekOfCode": "class UpdatedBars(Bar):\n    @classmethod\n    def load(cls, proto: bytes) -> Any:\n        entity = BarProto()\n        entity.ParseFromString(proto)\n        return UpdatedBars(entity)",
+    "detail": "otpclient.proto.bar",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.bar_pb2",
+    "description": "otpclient.proto.bar_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x0fproto/bar.proto\\x12\\x08\\x65ntities\\\"\\xf0\\x01\\n\\x03\\x42\\x61r\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x02 \\x01(\\t\\x12\\x0c\\n\\x04Open\\x18\\x03 \\x01(\\x01\\x12\\x0c\\n\\x04High\\x18\\x04 \\x01(\\x01\\x12\\x0b\\n\\x03Low\\x18\\x05 \\x01(\\x01\\x12\\r\\n\\x05\\x43lose\\x18\\x06 \\x01(\\x01\\x12\\x0e\\n\\x06Volume\\x18\\x07 \\x01(\\x01\\x12\\x0c\\n\\x04VWAP\\x18\\x08 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\t \\x01(\\x03\\x12\\x12\\n\\nTradeCount\\x18\\n \\x01(\\x04\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x0b \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x0c \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\r \\x01(\\t\\x12\\x11\\n\\tTimeframe\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.bar_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_BAR']._serialized_start=30\n  _globals['_BAR']._serialized_end=270",
+    "detail": "otpclient.proto.bar_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.bar_pb2",
+    "description": "otpclient.proto.bar_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x0fproto/bar.proto\\x12\\x08\\x65ntities\\\"\\xf0\\x01\\n\\x03\\x42\\x61r\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x02 \\x01(\\t\\x12\\x0c\\n\\x04Open\\x18\\x03 \\x01(\\x01\\x12\\x0c\\n\\x04High\\x18\\x04 \\x01(\\x01\\x12\\x0b\\n\\x03Low\\x18\\x05 \\x01(\\x01\\x12\\r\\n\\x05\\x43lose\\x18\\x06 \\x01(\\x01\\x12\\x0e\\n\\x06Volume\\x18\\x07 \\x01(\\x01\\x12\\x0c\\n\\x04VWAP\\x18\\x08 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\t \\x01(\\x03\\x12\\x12\\n\\nTradeCount\\x18\\n \\x01(\\x04\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x0b \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x0c \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\r \\x01(\\t\\x12\\x11\\n\\tTimeframe\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.bar_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_BAR']._serialized_start=30\n  _globals['_BAR']._serialized_end=270\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.bar_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.bar_pb2",
+    "description": "otpclient.proto.bar_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.bar_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_BAR']._serialized_start=30\n  _globals['_BAR']._serialized_end=270\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.bar_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "LULD",
+    "kind": 6,
+    "importPath": "otpclient.proto.luld",
+    "description": "otpclient.proto.luld",
+    "peekOfCode": "class LULD:\n    def __init__(self, luld_proto: LULDProto) -> None:\n        self.symbol: str = luld_proto.Symbol\n        self.limit_up_price: float = luld_proto.LimitUpPrice\n        self.limit_down_price: float = luld_proto.LimitDownPrice\n        self.indicator: str = luld_proto.Indicator\n        self.timestamp: int = luld_proto.Timestamp\n        self.tape: str = luld_proto.Tape\n        self.fingerprint: str = luld_proto.Fingerprint\n        self.source: str = luld_proto.Source",
+    "detail": "otpclient.proto.luld",
+    "documentation": {}
+  },
+  {
+    "label": "NewsSentiment",
+    "kind": 6,
+    "importPath": "otpclient.proto.news",
+    "description": "otpclient.proto.news",
+    "peekOfCode": "class NewsSentiment:\n    def __init__(self, news_proto: NewsSentimentProto) -> None:\n        self.timestamp: int = news_proto.Timestamp\n        self.news: News = news_proto.News\n        self.sentiment: str = news_proto.Sentiment\n        self.sentiment_analysis_process: str = news_proto.SentimentAnalysisProcess\n        self.fingerprint: str = news_proto.Fingerprint\n        self.llm: str = news_proto.LLM\n        self.symbol: str = news_proto.Symbol\n        self.system_prompt: str = news_proto.SystemPrompt",
+    "detail": "otpclient.proto.news",
+    "documentation": {}
+  },
+  {
+    "label": "News",
+    "kind": 6,
+    "importPath": "otpclient.proto.news",
+    "description": "otpclient.proto.news",
+    "peekOfCode": "class News:\n    def __init__(self, news_proto: NewsProto) -> None:\n        self.id: int = news_proto.id\n        self.author: str = news_proto.Author\n        self.created_at: int = news_proto.CreatedAt\n        self.updated_at: int = news_proto.UpdatedAt\n        self.headline: str = news_proto.Headline\n        self.summary: str = news_proto.Summary\n        self.content: str = news_proto.Content\n        self.url: str = news_proto.URL",
+    "detail": "otpclient.proto.news",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.news_pb2",
+    "description": "otpclient.proto.news_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x10proto/news.proto\\x12\\x08\\x65ntities\\\"\\xec\\x01\\n\\x04News\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\x03\\x12\\x0e\\n\\x06\\x41uthor\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tCreatedAt\\x18\\x03 \\x01(\\x03\\x12\\x11\\n\\tUpdatedAt\\x18\\x04 \\x01(\\x03\\x12\\x10\\n\\x08Headline\\x18\\x05 \\x01(\\t\\x12\\x0f\\n\\x07Summary\\x18\\x06 \\x01(\\t\\x12\\x0f\\n\\x07\\x43ontent\\x18\\x07 \\x01(\\t\\x12\\x0b\\n\\x03URL\\x18\\x08 \\x01(\\t\\x12\\x0f\\n\\x07Symbols\\x18\\t \\x03(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\n \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x0b \\x01(\\t\\x12+\\n\\nSentiments\\x18\\x0c \\x03(\\x0b\\x32\\x17.entities.NewsSentiment\\\"\\xe3\\x01\\n\\rNewsSentiment\\x12\\x11\\n\\tTimestamp\\x18\\x01 \\x01(\\x03\\x12\\x1c\\n\\x04News\\x18\\x02 \\x01(\\x0b\\x32\\x0e.entities.News\\x12\\x11\\n\\tSentiment\\x18\\x03 \\x01(\\t\\x12 \\n\\x18SentimentAnalysisProcess\\x18\\x04 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x05 \\x01(\\t\\x12\\x0b\\n\\x03LLM\\x18\\x06 \\x01(\\t\\x12\\x0e\\n\\x06Symbol\\x18\\x07 \\x01(\\t\\x12\\x14\\n\\x0cSystemPrompt\\x18\\x08 \\x01(\\t\\x12\\x0e\\n\\x06\\x46\\x61iled\\x18\\t \\x01(\\x08\\x12\\x14\\n\\x0cRawSentiment\\x18\\n \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.news_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_NEWS']._serialized_start=31\n  _globals['_NEWS']._serialized_end=267",
+    "detail": "otpclient.proto.news_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.news_pb2",
+    "description": "otpclient.proto.news_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x10proto/news.proto\\x12\\x08\\x65ntities\\\"\\xec\\x01\\n\\x04News\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\x03\\x12\\x0e\\n\\x06\\x41uthor\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tCreatedAt\\x18\\x03 \\x01(\\x03\\x12\\x11\\n\\tUpdatedAt\\x18\\x04 \\x01(\\x03\\x12\\x10\\n\\x08Headline\\x18\\x05 \\x01(\\t\\x12\\x0f\\n\\x07Summary\\x18\\x06 \\x01(\\t\\x12\\x0f\\n\\x07\\x43ontent\\x18\\x07 \\x01(\\t\\x12\\x0b\\n\\x03URL\\x18\\x08 \\x01(\\t\\x12\\x0f\\n\\x07Symbols\\x18\\t \\x03(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\n \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x0b \\x01(\\t\\x12+\\n\\nSentiments\\x18\\x0c \\x03(\\x0b\\x32\\x17.entities.NewsSentiment\\\"\\xe3\\x01\\n\\rNewsSentiment\\x12\\x11\\n\\tTimestamp\\x18\\x01 \\x01(\\x03\\x12\\x1c\\n\\x04News\\x18\\x02 \\x01(\\x0b\\x32\\x0e.entities.News\\x12\\x11\\n\\tSentiment\\x18\\x03 \\x01(\\t\\x12 \\n\\x18SentimentAnalysisProcess\\x18\\x04 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x05 \\x01(\\t\\x12\\x0b\\n\\x03LLM\\x18\\x06 \\x01(\\t\\x12\\x0e\\n\\x06Symbol\\x18\\x07 \\x01(\\t\\x12\\x14\\n\\x0cSystemPrompt\\x18\\x08 \\x01(\\t\\x12\\x0e\\n\\x06\\x46\\x61iled\\x18\\t \\x01(\\x08\\x12\\x14\\n\\x0cRawSentiment\\x18\\n \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.news_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_NEWS']._serialized_start=31\n  _globals['_NEWS']._serialized_end=267\n  _globals['_NEWSSENTIMENT']._serialized_start=270",
+    "detail": "otpclient.proto.news_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.news_pb2",
+    "description": "otpclient.proto.news_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.news_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_NEWS']._serialized_start=31\n  _globals['_NEWS']._serialized_end=267\n  _globals['_NEWSSENTIMENT']._serialized_start=270\n  _globals['_NEWSSENTIMENT']._serialized_end=497",
+    "detail": "otpclient.proto.news_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "OrderbookEntry",
+    "kind": 6,
+    "importPath": "otpclient.proto.orderbook",
+    "description": "otpclient.proto.orderbook",
+    "peekOfCode": "class OrderbookEntry:\n    def __init__(self, orderbook_entry_proto: OrderbookEntryProto) -> None:\n        self.price: float = orderbook_entry_proto.Price\n        self.size: float = orderbook_entry_proto.Size\n        self.source: str = orderbook_entry_proto.Source\n    @classmethod\n    def load(cls, proto: bytes) -> Any:\n        entry = OrderbookEntryProto()\n        entry.ParseFromString(proto)\n        return OrderbookEntry(entry)",
+    "detail": "otpclient.proto.orderbook",
+    "documentation": {}
+  },
+  {
+    "label": "Orderbook",
+    "kind": 6,
+    "importPath": "otpclient.proto.orderbook",
+    "description": "otpclient.proto.orderbook",
+    "peekOfCode": "class Orderbook:\n    def __init__(self, orderbook_proto: OrderbookProto) -> None:\n        self.symbol: str = orderbook_proto.Symbol\n        self.exchange: str = orderbook_proto.Exchange\n        self.timestamp: int = orderbook_proto.Timestamp\n        self.asks: list[OrderbookEntry] = [OrderbookEntry(entry) for entry in orderbook_proto.Asks]\n        self.bids: list[OrderbookEntry] = [OrderbookEntry(entry) for entry in orderbook_proto.Bids]\n        self.reset: bool = orderbook_proto.Reset\n        self.fingerprint: str = orderbook_proto.Fingerprint\n        self.source: str = orderbook_proto.Source",
+    "detail": "otpclient.proto.orderbook",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.orderbook_pb2",
+    "description": "otpclient.proto.orderbook_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15proto/orderbook.proto\\x12\\x08\\x65ntities\\\"=\\n\\x0eOrderbookEntry\\x12\\r\\n\\x05Price\\x18\\x01 \\x01(\\x01\\x12\\x0c\\n\\x04Size\\x18\\x02 \\x01(\\x01\\x12\\x0e\\n\\x06Source\\x18\\x03 \\x01(\\t\\\"\\xd8\\x01\\n\\tOrderbook\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x03 \\x01(\\x03\\x12&\\n\\x04\\x41sks\\x18\\x04 \\x03(\\x0b\\x32\\x18.entities.OrderbookEntry\\x12&\\n\\x04\\x42ids\\x18\\x05 \\x03(\\x0b\\x32\\x18.entities.OrderbookEntry\\x12\\r\\n\\x05Reset\\x18\\x06 \\x01(\\x08\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x07 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x08 \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\t \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.orderbook_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_ORDERBOOKENTRY']._serialized_start=35\n  _globals['_ORDERBOOKENTRY']._serialized_end=96",
+    "detail": "otpclient.proto.orderbook_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.orderbook_pb2",
+    "description": "otpclient.proto.orderbook_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15proto/orderbook.proto\\x12\\x08\\x65ntities\\\"=\\n\\x0eOrderbookEntry\\x12\\r\\n\\x05Price\\x18\\x01 \\x01(\\x01\\x12\\x0c\\n\\x04Size\\x18\\x02 \\x01(\\x01\\x12\\x0e\\n\\x06Source\\x18\\x03 \\x01(\\t\\\"\\xd8\\x01\\n\\tOrderbook\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x03 \\x01(\\x03\\x12&\\n\\x04\\x41sks\\x18\\x04 \\x03(\\x0b\\x32\\x18.entities.OrderbookEntry\\x12&\\n\\x04\\x42ids\\x18\\x05 \\x03(\\x0b\\x32\\x18.entities.OrderbookEntry\\x12\\r\\n\\x05Reset\\x18\\x06 \\x01(\\x08\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x07 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\x08 \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\t \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.orderbook_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_ORDERBOOKENTRY']._serialized_start=35\n  _globals['_ORDERBOOKENTRY']._serialized_end=96\n  _globals['_ORDERBOOK']._serialized_start=99",
+    "detail": "otpclient.proto.orderbook_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.orderbook_pb2",
+    "description": "otpclient.proto.orderbook_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.orderbook_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_ORDERBOOKENTRY']._serialized_start=35\n  _globals['_ORDERBOOKENTRY']._serialized_end=96\n  _globals['_ORDERBOOK']._serialized_start=99\n  _globals['_ORDERBOOK']._serialized_end=315",
+    "detail": "otpclient.proto.orderbook_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "ProtoLoadable",
+    "kind": 6,
+    "importPath": "otpclient.proto.proto_loadable",
+    "description": "otpclient.proto.proto_loadable",
+    "peekOfCode": "class ProtoLoadable(Protocol):\n    @classmethod\n    def load(cls, proto: bytes) -> Any:\n        ...",
+    "detail": "otpclient.proto.proto_loadable",
+    "documentation": {}
+  },
+  {
+    "label": "Quote",
+    "kind": 6,
+    "importPath": "otpclient.proto.quote",
+    "description": "otpclient.proto.quote",
+    "peekOfCode": "class Quote:\n    def __init__(self, proto_bar: QuoteProto) -> None:\n        self.symbol: str = proto_bar.Symbol\n        self.bid_exchange: str = proto_bar.BidExchange\n        self.exchange: str = proto_bar.Exchange\n        self.bid_price: float = proto_bar.BidPrice\n        self.bid_size: float = proto_bar.BidSize\n        self.ask_exchange: str = proto_bar.AskExchange\n        self.ask_price: float = proto_bar.AskPrice\n        self.ask_size: float = proto_bar.AskSize",
+    "detail": "otpclient.proto.quote",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.quote_pb2",
+    "description": "otpclient.proto.quote_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x11proto/quote.proto\\x12\\x08\\x65ntities\\\"\\x87\\x02\\n\\x05Quote\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0b\\x42idExchange\\x18\\x02 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x03 \\x01(\\t\\x12\\x10\\n\\x08\\x42idPrice\\x18\\x04 \\x01(\\x01\\x12\\x0f\\n\\x07\\x42idSize\\x18\\x05 \\x01(\\x01\\x12\\x13\\n\\x0b\\x41skExchange\\x18\\x06 \\x01(\\t\\x12\\x10\\n\\x08\\x41skPrice\\x18\\x07 \\x01(\\x01\\x12\\x0f\\n\\x07\\x41skSize\\x18\\x08 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\t \\x01(\\x03\\x12\\x12\\n\\nConditions\\x18\\n \\x03(\\t\\x12\\x0c\\n\\x04Tape\\x18\\x0b \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x0c \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\r \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.quote_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_QUOTE']._serialized_start=32\n  _globals['_QUOTE']._serialized_end=295",
+    "detail": "otpclient.proto.quote_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.quote_pb2",
+    "description": "otpclient.proto.quote_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x11proto/quote.proto\\x12\\x08\\x65ntities\\\"\\x87\\x02\\n\\x05Quote\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0b\\x42idExchange\\x18\\x02 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x03 \\x01(\\t\\x12\\x10\\n\\x08\\x42idPrice\\x18\\x04 \\x01(\\x01\\x12\\x0f\\n\\x07\\x42idSize\\x18\\x05 \\x01(\\x01\\x12\\x13\\n\\x0b\\x41skExchange\\x18\\x06 \\x01(\\t\\x12\\x10\\n\\x08\\x41skPrice\\x18\\x07 \\x01(\\x01\\x12\\x0f\\n\\x07\\x41skSize\\x18\\x08 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\t \\x01(\\x03\\x12\\x12\\n\\nConditions\\x18\\n \\x03(\\t\\x12\\x0c\\n\\x04Tape\\x18\\x0b \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x0c \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\r \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.quote_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_QUOTE']._serialized_start=32\n  _globals['_QUOTE']._serialized_end=295\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.quote_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.quote_pb2",
+    "description": "otpclient.proto.quote_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.quote_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_QUOTE']._serialized_start=32\n  _globals['_QUOTE']._serialized_end=295\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.quote_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "Trade",
+    "kind": 6,
+    "importPath": "otpclient.proto.trade",
+    "description": "otpclient.proto.trade",
+    "peekOfCode": "class Trade:\n    def __init__(self, trade_proto: TradeProto):\n        self.id: int = trade_proto.ID\n        self.symbol: str = trade_proto.Symbol\n        self.exchange: str = trade_proto.Exchange\n        self.price: float = trade_proto.Price\n        self.size: float = trade_proto.Size\n        self.timestamp: int = trade_proto.Timestamp\n        self.taker_side: str = trade_proto.TakerSide\n        self.conditions: list[str] = trade_proto.Conditions",
+    "detail": "otpclient.proto.trade",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.trade_pb2",
+    "description": "otpclient.proto.trade_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x11proto/trade.proto\\x12\\x08\\x65ntities\\\"\\xe3\\x01\\n\\x05Trade\\x12\\n\\n\\x02ID\\x18\\x01 \\x01(\\x03\\x12\\x0e\\n\\x06Symbol\\x18\\x02 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x03 \\x01(\\t\\x12\\r\\n\\x05Price\\x18\\x04 \\x01(\\x01\\x12\\x0c\\n\\x04Size\\x18\\x05 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\x06 \\x01(\\x03\\x12\\x11\\n\\tTakerSide\\x18\\x07 \\x01(\\t\\x12\\x12\\n\\nConditions\\x18\\x08 \\x03(\\t\\x12\\x0c\\n\\x04Tape\\x18\\t \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\n \\x01(\\t\\x12\\x0e\\n\\x06Update\\x18\\x0b \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\r \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.trade_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADE']._serialized_start=32\n  _globals['_TRADE']._serialized_end=259",
+    "detail": "otpclient.proto.trade_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.trade_pb2",
+    "description": "otpclient.proto.trade_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x11proto/trade.proto\\x12\\x08\\x65ntities\\\"\\xe3\\x01\\n\\x05Trade\\x12\\n\\n\\x02ID\\x18\\x01 \\x01(\\x03\\x12\\x0e\\n\\x06Symbol\\x18\\x02 \\x01(\\t\\x12\\x10\\n\\x08\\x45xchange\\x18\\x03 \\x01(\\t\\x12\\r\\n\\x05Price\\x18\\x04 \\x01(\\x01\\x12\\x0c\\n\\x04Size\\x18\\x05 \\x01(\\x01\\x12\\x11\\n\\tTimestamp\\x18\\x06 \\x01(\\x03\\x12\\x11\\n\\tTakerSide\\x18\\x07 \\x01(\\t\\x12\\x12\\n\\nConditions\\x18\\x08 \\x03(\\t\\x12\\x0c\\n\\x04Tape\\x18\\t \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\n \\x01(\\t\\x12\\x0e\\n\\x06Update\\x18\\x0b \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\r \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\x0e \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.trade_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADE']._serialized_start=32\n  _globals['_TRADE']._serialized_end=259\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.trade_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.trade_pb2",
+    "description": "otpclient.proto.trade_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.trade_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADE']._serialized_start=32\n  _globals['_TRADE']._serialized_end=259\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.trade_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "TradingStatus",
+    "kind": 6,
+    "importPath": "otpclient.proto.tradingstatus",
+    "description": "otpclient.proto.tradingstatus",
+    "peekOfCode": "class TradingStatus:\n    def __init__(self, trading_status_proto: TradingStatusProto) -> None:\n        self.symbol: str = trading_status_proto.Symbol\n        self.status_code: str = trading_status_proto.StatusCode\n        self.status_msg: str = trading_status_proto.StatusMsg\n        self.reason_code: str = trading_status_proto.ReasonCode\n        self.reason_msg: str = trading_status_proto.ReasonMsg\n        self.timestamp: int = trading_status_proto.Timestamp\n        self.tape: str = trading_status_proto.Tape\n        self.fingerprint: str = trading_status_proto.Fingerprint",
+    "detail": "otpclient.proto.tradingstatus",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.tradingstatus_pb2",
+    "description": "otpclient.proto.tradingstatus_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x19proto/tradingstatus.proto\\x12\\x08\\x65ntities\\\"\\xc7\\x01\\n\\rTradingStatus\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x12\\n\\nStatusCode\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tStatusMsg\\x18\\x03 \\x01(\\t\\x12\\x12\\n\\nReasonCode\\x18\\x04 \\x01(\\t\\x12\\x11\\n\\tReasonMsg\\x18\\x05 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x06 \\x01(\\x03\\x12\\x0c\\n\\x04Tape\\x18\\x07 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x08 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\t \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\n \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.tradingstatus_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADINGSTATUS']._serialized_start=40\n  _globals['_TRADINGSTATUS']._serialized_end=239",
+    "detail": "otpclient.proto.tradingstatus_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.tradingstatus_pb2",
+    "description": "otpclient.proto.tradingstatus_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x19proto/tradingstatus.proto\\x12\\x08\\x65ntities\\\"\\xc7\\x01\\n\\rTradingStatus\\x12\\x0e\\n\\x06Symbol\\x18\\x01 \\x01(\\t\\x12\\x12\\n\\nStatusCode\\x18\\x02 \\x01(\\t\\x12\\x11\\n\\tStatusMsg\\x18\\x03 \\x01(\\t\\x12\\x12\\n\\nReasonCode\\x18\\x04 \\x01(\\t\\x12\\x11\\n\\tReasonMsg\\x18\\x05 \\x01(\\t\\x12\\x11\\n\\tTimestamp\\x18\\x06 \\x01(\\x03\\x12\\x0c\\n\\x04Tape\\x18\\x07 \\x01(\\t\\x12\\x13\\n\\x0b\\x46ingerprint\\x18\\x08 \\x01(\\t\\x12\\x0e\\n\\x06Source\\x18\\t \\x01(\\t\\x12\\x12\\n\\nAssetClass\\x18\\n \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.tradingstatus_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADINGSTATUS']._serialized_start=40\n  _globals['_TRADINGSTATUS']._serialized_end=239\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.tradingstatus_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.tradingstatus_pb2",
+    "description": "otpclient.proto.tradingstatus_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.tradingstatus_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_TRADINGSTATUS']._serialized_start=40\n  _globals['_TRADINGSTATUS']._serialized_end=239\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.tradingstatus_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "TransmissionMessage",
+    "kind": 6,
+    "importPath": "otpclient.proto.transmission_message",
+    "description": "otpclient.proto.transmission_message",
+    "peekOfCode": "class TransmissionMessage:\n    def __init__(self, proto_bar) -> None:\n        self.topic: str = proto_bar.Topic\n        self.payload: bytes = proto_bar.Payload\n        self.data_type: str = proto_bar.DataType\n    @classmethod\n    def load(cls, proto: bytes) -> \"TransmissionMessage\":\n        message = transmission_message_pb2.Message() # type: ignore\n        message.ParseFromString(proto) \n        return TransmissionMessage(message)",
+    "detail": "otpclient.proto.transmission_message",
+    "documentation": {}
+  },
+  {
+    "label": "_sym_db",
+    "kind": 5,
+    "importPath": "otpclient.proto.transmission_message_pb2",
+    "description": "otpclient.proto.transmission_message_pb2",
+    "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n proto/transmission_message.proto\\x12\\x08\\x65ntities\\\";\\n\\x07Message\\x12\\r\\n\\x05Topic\\x18\\x01 \\x01(\\t\\x12\\x0f\\n\\x07Payload\\x18\\x02 \\x01(\\x0c\\x12\\x10\\n\\x08\\x44\\x61taType\\x18\\x03 \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.transmission_message_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_MESSAGE']._serialized_start=46\n  _globals['_MESSAGE']._serialized_end=105",
+    "detail": "otpclient.proto.transmission_message_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "DESCRIPTOR",
+    "kind": 5,
+    "importPath": "otpclient.proto.transmission_message_pb2",
+    "description": "otpclient.proto.transmission_message_pb2",
+    "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n proto/transmission_message.proto\\x12\\x08\\x65ntities\\\";\\n\\x07Message\\x12\\r\\n\\x05Topic\\x18\\x01 \\x01(\\t\\x12\\x0f\\n\\x07Payload\\x18\\x02 \\x01(\\x0c\\x12\\x10\\n\\x08\\x44\\x61taType\\x18\\x03 \\x01(\\tB\\x0bZ\\tentities/b\\x06proto3')\n_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.transmission_message_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_MESSAGE']._serialized_start=46\n  _globals['_MESSAGE']._serialized_end=105\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.transmission_message_pb2",
+    "documentation": {}
+  },
+  {
+    "label": "_globals",
+    "kind": 5,
+    "importPath": "otpclient.proto.transmission_message_pb2",
+    "description": "otpclient.proto.transmission_message_pb2",
+    "peekOfCode": "_globals = globals()\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.transmission_message_pb2', _globals)\nif _descriptor._USE_C_DESCRIPTORS == False:\n  _globals['DESCRIPTOR']._options = None\n  _globals['DESCRIPTOR']._serialized_options = b'Z\\tentities/'\n  _globals['_MESSAGE']._serialized_start=46\n  _globals['_MESSAGE']._serialized_end=105\n# @@protoc_insertion_point(module_scope)",
+    "detail": "otpclient.proto.transmission_message_pb2",
+    "documentation": {}
+  }
+]

@@ -7,21 +7,20 @@ from google.protobuf import descriptor as _descriptor
 from google.protobuf import descriptor_pool as _descriptor_pool
 from google.protobuf import symbol_database as _symbol_database
 from google.protobuf.internal import builder as _builder
+
 # @@protoc_insertion_point(imports)
 
 _sym_db = _symbol_database.Default()
 
-
-
-
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x10proto/LULD.proto\x12\x08\x65ntities\"\xb1\x01\n\x04LULD\x12\x0e\n\x06Symbol\x18\x01 \x01(\t\x12\x14\n\x0cLimitUpPrice\x18\x02 \x01(\x01\x12\x16\n\x0eLimitDownPrice\x18\x03 \x01(\x01\x12\x11\n\tIndicator\x18\x04 \x01(\t\x12\x11\n\tTimestamp\x18\x05 \x01(\x03\x12\x0c\n\x04Tape\x18\x06 \x01(\t\x12\x13\n\x0b\x46ingerprint\x18\x07 \x01(\t\x12\x0e\n\x06Source\x18\x08 \x01(\t\x12\x12\n\nAssetClass\x18\t \x01(\tB\x0bZ\tentities/b\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(
+    b'\n\x10proto/LULD.proto\x12\x08\x65ntities\"\xb1\x01\n\x04LULD\x12\x0e\n\x06Symbol\x18\x01 \x01(\t\x12\x14\n\x0cLimitUpPrice\x18\x02 \x01(\x01\x12\x16\n\x0eLimitDownPrice\x18\x03 \x01(\x01\x12\x11\n\tIndicator\x18\x04 \x01(\t\x12\x11\n\tTimestamp\x18\x05 \x01(\x03\x12\x0c\n\x04Tape\x18\x06 \x01(\t\x12\x13\n\x0b\x46ingerprint\x18\x07 \x01(\t\x12\x0e\n\x06Source\x18\x08 \x01(\t\x12\x12\n\nAssetClass\x18\t \x01(\tB\x0bZ\tentities/b\x06proto3')
 
 _globals = globals()
 _builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)
 _builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.LULD_pb2', _globals)
 if _descriptor._USE_C_DESCRIPTORS == False:
-  _globals['DESCRIPTOR']._options = None
-  _globals['DESCRIPTOR']._serialized_options = b'Z\tentities/'
-  _globals['_LULD']._serialized_start=31
-  _globals['_LULD']._serialized_end=208
+    _globals['DESCRIPTOR']._options = None
+    _globals['DESCRIPTOR']._serialized_options = b'Z\tentities/'
+    _globals['_LULD']._serialized_start = 31
+    _globals['_LULD']._serialized_end = 208
 # @@protoc_insertion_point(module_scope)
