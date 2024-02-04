@@ -7,21 +7,20 @@ from google.protobuf import descriptor as _descriptor
 from google.protobuf import descriptor_pool as _descriptor_pool
 from google.protobuf import symbol_database as _symbol_database
 from google.protobuf.internal import builder as _builder
+
 # @@protoc_insertion_point(imports)
 
 _sym_db = _symbol_database.Default()
 
-
-
-
-DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x11proto/quote.proto\x12\x08\x65ntities\"\x87\x02\n\x05Quote\x12\x0e\n\x06Symbol\x18\x01 \x01(\t\x12\x13\n\x0b\x42idExchange\x18\x02 \x01(\t\x12\x10\n\x08\x45xchange\x18\x03 \x01(\t\x12\x10\n\x08\x42idPrice\x18\x04 \x01(\x01\x12\x0f\n\x07\x42idSize\x18\x05 \x01(\x01\x12\x13\n\x0b\x41skExchange\x18\x06 \x01(\t\x12\x10\n\x08\x41skPrice\x18\x07 \x01(\x01\x12\x0f\n\x07\x41skSize\x18\x08 \x01(\x01\x12\x11\n\tTimestamp\x18\t \x01(\x03\x12\x12\n\nConditions\x18\n \x03(\t\x12\x0c\n\x04Tape\x18\x0b \x01(\t\x12\x13\n\x0b\x46ingerprint\x18\x0c \x01(\t\x12\x0e\n\x06Source\x18\r \x01(\t\x12\x12\n\nAssetClass\x18\x0e \x01(\tB\x0bZ\tentities/b\x06proto3')
+DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(
+    b'\n\x11proto/quote.proto\x12\x08\x65ntities\"\x87\x02\n\x05Quote\x12\x0e\n\x06Symbol\x18\x01 \x01(\t\x12\x13\n\x0b\x42idExchange\x18\x02 \x01(\t\x12\x10\n\x08\x45xchange\x18\x03 \x01(\t\x12\x10\n\x08\x42idPrice\x18\x04 \x01(\x01\x12\x0f\n\x07\x42idSize\x18\x05 \x01(\x01\x12\x13\n\x0b\x41skExchange\x18\x06 \x01(\t\x12\x10\n\x08\x41skPrice\x18\x07 \x01(\x01\x12\x0f\n\x07\x41skSize\x18\x08 \x01(\x01\x12\x11\n\tTimestamp\x18\t \x01(\x03\x12\x12\n\nConditions\x18\n \x03(\t\x12\x0c\n\x04Tape\x18\x0b \x01(\t\x12\x13\n\x0b\x46ingerprint\x18\x0c \x01(\t\x12\x0e\n\x06Source\x18\r \x01(\t\x12\x12\n\nAssetClass\x18\x0e \x01(\tB\x0bZ\tentities/b\x06proto3')
 
 _globals = globals()
 _builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)
 _builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'proto.quote_pb2', _globals)
 if _descriptor._USE_C_DESCRIPTORS == False:
-  _globals['DESCRIPTOR']._options = None
-  _globals['DESCRIPTOR']._serialized_options = b'Z\tentities/'
-  _globals['_QUOTE']._serialized_start=32
-  _globals['_QUOTE']._serialized_end=295
+    _globals['DESCRIPTOR']._options = None
+    _globals['DESCRIPTOR']._serialized_options = b'Z\tentities/'
+    _globals['_QUOTE']._serialized_start = 32
+    _globals['_QUOTE']._serialized_end = 295
 # @@protoc_insertion_point(module_scope)

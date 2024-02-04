@@ -10,6 +10,8 @@ python = "^3.11"
 protobuf = "^4.25.2"
 nats-py = "^2.6.0"
 marshmallow = "^3.20.2"
+structlog = "^24.1.0"
+pandas = "^2.2.0"
 
 
 [build-system]
