@@ -37,6 +37,19 @@ async def main():
     print("Data as a pandas DataFrame:")
     print(df)
 
+    # Alternatively, you can request data and resolve it in one go
+    data: list[Bar] = await client.dataprovider.data_get_autoresolve(
+        SourceEnum.ALPACA,
+        AssetClassEnum.CRYPTO,
+        "BTC/USD",
+        DatatypeEnum.BAR,
+        AccountEnum.DEFAULT,
+        start_time=datetime.now() - timedelta(weeks=1),
+        end_time=datetime.now() - timedelta(minutes=15),
+        time_frame=TimeFrameEnum.ONE_MINUTE
+    )
+    print("Received records:", len(data))
+
     # 6. Close client
     await client.close()
 

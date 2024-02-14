@@ -26,13 +26,15 @@ async def main():
         AccountEnum.DEFAULT,
         start_time=datetime.now() - timedelta(days=3),
         end_time=datetime.now(),
-        time_frame=TimeFrameEnum.ONE_MINUTE
+        time_frame=TimeFrameEnum.ONE_MINUTE,
+        no_confirm=True
     )
 
     if response.Status != OPStatusEnum.SUCCESS:
         print(f"Failed to get news data: {response.message}")
         return
-
+    print("Wait for database to populate")
+    await asyncio.sleep(5)
     # 3. Perform sentiment analysis on the news data
     # Create a cancel remote, in case you want to cancel the request prematurely
     cancel = CancelRemote.generate()
@@ -104,6 +106,25 @@ async def main():
 
     # Print a csv dump of the data
     print(filtered_sent.to_csv(index=False))
+
+    # Alternatively, you can request data and resolve it in one go
+    news: list[News] = await client.sentimentanalyzer.data_get_autoresolve(
+        SourceEnum.ALPACA,
+        "AAPL",
+        start_time=datetime.now() - timedelta(days=3),
+        end_time=datetime.now(),
+        sentiment_analysis_process=SentimentAnalysisProcessEnum.PLAIN,
+        model="orca2",
+        model_provider=LLMProviderEnum.OLLAMA,
+        system_prompt="You are a markets expert. Analyze the sentiment of this financial news related to the given "
+                      "symbol and respond with one of the following words about the sentiment [positive, negative, "
+                      "neutral]. Respond with only one word.",
+        timeout_sec=60 * 5,
+        cancel_remote=cancel
+    )
+    print("Received data:", len(news))
+
+
 
     # 6. Close client
     await client.close()
