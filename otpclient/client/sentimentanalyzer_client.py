@@ -1,4 +1,5 @@
 from datetime import datetime
+from typing import Any
 
 from nats.aio.client import Client
 
@@ -36,6 +37,38 @@ class SentimentAnalyzerClient(OtpClient):
         logger.info("Cancel operation was successful", response=obj_response.Message)
 
         return obj_response
+
+    async def data_get_autoresolve(self,
+                                   source: SourceEnum,
+                                   symbol: str,
+                                   start_time: datetime,
+                                   end_time: datetime,
+                                   sentiment_analysis_process: SentimentAnalysisProcessEnum,
+                                   model: str,
+                                   model_provider: LLMProviderEnum,
+                                   system_prompt: str,
+                                   retry_failed: bool = False,
+                                   fail_fast_on_bad_sentiment: bool = False,
+                                   timeout_sec: int = 60,
+                                   cancel_remote: CancelRemote = None
+                                   ) -> list[Any]:
+        """Request data and resolve it in one go."""
+        response = await self.data_get(
+            source,
+            symbol,
+            start_time,
+            end_time,
+            sentiment_analysis_process,
+            model,
+            model_provider,
+            system_prompt,
+            retry_failed,
+            fail_fast_on_bad_sentiment,
+            False,
+            timeout_sec,
+            cancel_remote
+        )
+        return await self.resolve_data(response, timeout_sec)
 
     async def data_get(self,
                        source: SourceEnum,

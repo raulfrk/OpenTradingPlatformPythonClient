@@ -30,6 +30,33 @@ class OtpClient(ABC):
         self.nc = nats_client
         self.command_topic: str = ""
 
+    async def data_get_autoresolve(
+            self,
+            source: SourceEnum,
+            asset_class: AssetClassEnum,
+            symbol: str,
+            data_type: DatatypeEnum,
+            account: AccountEnum,
+            start_time: datetime,
+            end_time: datetime,
+            time_frame: TimeFrameEnum,
+            timeout_sec: int = 60) -> List[Any]:
+        """Request data and resolve it in one go."""
+        response = await self.data_get(
+            source,
+            asset_class,
+            symbol,
+            data_type,
+            account,
+            start_time,
+            end_time,
+            time_frame,
+            False,
+            timeout_sec
+        )
+
+        return await self.resolve_data(response, timeout_sec)
+
     async def data_get(
             self,
             source: SourceEnum,
