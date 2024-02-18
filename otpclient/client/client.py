@@ -95,39 +95,47 @@ class OtpClient(ABC):
         if data_response.Status == OPStatusEnum.FAILURE:
             log.error("Attempted to resolve data from failed response", err=data_response.Err)
             raise Exception(data_response.Err)
-        q = asyncio.Queue()
         out_data = []
 
         current_time = datetime.now()
 
         expected_count = extract_queue_count(data_response.ResponseTopic)
+        q = asyncio.Queue(expected_count)
 
         async def _data_response_callback(msg: nats.aio.msg.Msg) -> None:
             if msg.data == b"":
                 return
-            msg = TransmissionMessage.load(msg.data)
-            loadable = loadable_map[DatatypeEnum(msg.data_type)]
-            data = loadable.load(msg.payload)
-            await q.put(data)
+
+            await q.put(msg)
 
         async def _break_on_timeout():
             while True:
                 if datetime.now() > current_time + timedelta(seconds=timeout_sec):
                     break
-                await asyncio.sleep(0.01)
+                await asyncio.sleep(1)
             await q.put(None)
 
         t = asyncio.create_task(_break_on_timeout())
-        subscription = await self.nc.subscribe(data_response.ResponseTopic, cb=_data_response_callback)
+
+        subs = []
+        for _ in range(5):
+            subs.append(await self.nc.subscribe(data_response.ResponseTopic, queue="queue", cb=_data_response_callback,
+                                                pending_msgs_limit=1_000_000))
 
         await self.nc.publish(data_response.ResponseTopic, b"")
-
-        while len(out_data) < expected_count:
-            entity = await q.get()
-            if entity is None:
+        while True:
+            if q.qsize() == expected_count:
+                break
+            await asyncio.sleep(1)
+        for _ in range(expected_count):
+            msg = await q.get()
+            if msg is None:
                 raise CancelledError("Data resolution timed out.")
-            out_data.append(entity)
+            msg = TransmissionMessage.load(msg.data)
+            loadable = loadable_map[DatatypeEnum(msg.data_type)]
+            data = loadable.load(msg.payload)
+            out_data.append(data)
 
-        await subscription.unsubscribe()
-        t.cancel()
+        for s in subs:
+            await s.unsubscribe()
         return out_data
